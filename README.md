@@ -20,3 +20,27 @@ The TEMS Appliance Parts Store is designed to provide a user-friendly platform f
 To get started with the TEMS Appliance Parts Store locally on your machine, follow these steps:
 
 1. **Clone the Repository:**
+
+2. **Install Dependencies:**
+   
+3. **Run the Development Server:**
+
+4. **Open the Application:**
+Visit `http://localhost:3000` in your web browser to view the application.
+
+## Contributing
+
+We welcome contributions from the community! If you'd like to contribute to the TEMS Appliance Parts Store, please follow our [contributing guidelines](CONTRIBUTING.md) for instructions on how to get started.
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+## Contact
+
+For any inquiries or feedback regarding the TEMS Appliance Parts Store, please contact us at [contact@example.com](mailto:contact@example.com).
+
+
+
+
+
